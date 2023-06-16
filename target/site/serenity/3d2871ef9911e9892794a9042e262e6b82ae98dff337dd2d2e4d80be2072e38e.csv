@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Virgin games test","This Method will get all Jackpot information","SUCCESS","2023-06-16T14:43:35.040+01:00[Europe/London]","0.0","5.39"
+"Virgin games test","This method will verify if currency is equal to GBP","SUCCESS","2023-06-16T14:43:40.467+01:00[Europe/London]","0.0","1.47"
+"Virgin games test","This method will verify jackpot Id = Bingo","SUCCESS","2023-06-16T14:43:41.943+01:00[Europe/London]","0.0","0.37"
